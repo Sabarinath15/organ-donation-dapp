@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "truffle": "^5.8.1"
+  },
+  "name": "organ-donation-dapp",
+  "description": "<a name=\"readme-top\"></a>",
+  "version": "1.0.0",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "mocha": "^10.1.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
